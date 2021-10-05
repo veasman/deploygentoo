@@ -1,0 +1,16 @@
+app-shells/zsh
+app-misc/tmux
+media-video/pipewire
+x11-misc/dunst
+x11-misc/sxhkd
+x11-misc/xwallpaper
+media-gfx/flameshot
+app-misc/neofetch
+app-portage/layman
+app-shells/fzf
+x11-misc/picom
+media-fonts/fira-code
+media-fonts/powerline-symbols
+www-client/librewolf
+sys-apps/ripgrep
+media-video/simplescreenrecorder
