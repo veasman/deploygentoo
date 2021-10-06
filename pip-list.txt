@@ -1,0 +1,2 @@
+cmake-language-server
+python-lsp-server
