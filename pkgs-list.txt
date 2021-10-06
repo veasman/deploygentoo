@@ -14,3 +14,4 @@ media-fonts/powerline-symbols
 www-client/librewolf
 sys-apps/ripgrep
 media-video/simplescreenrecorder
+dev-python/pip
